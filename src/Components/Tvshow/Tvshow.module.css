@@ -1,0 +1,14 @@
+.linedec{
+    height: 2px;
+    background-color: #a8a8a83d;
+}
+.ratePos{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 12%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
